@@ -20,16 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9ec959b-6db2-47ad-ac8f-5ee8a5ab20d6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/symfonydocker-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/symfonydocker-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Entity/Fromage.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/database/data/ib_logfile0" beforeDir="false" afterPath="$PROJECT_DIR$/docker/database/data/ib_logfile0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,8 +133,16 @@
       <option name="presentableId" value="Default" />
       <updated>1614762802024</updated>
       <workItem from="1614762803197" duration="3186000" />
-      <workItem from="1614931050503" duration="3696000" />
+      <workItem from="1614931050503" duration="6202000" />
     </task>
+    <task id="LOCAL-00001" summary="main">
+      <created>1614936310497</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614936310497</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +159,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="main" />
+    <option name="LAST_COMMIT_MESSAGE" value="main" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="804" y="418" key="Github.ShareDialog" timestamp="1614765807779">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -172,9 +176,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1614765762790" />
-    <state x="-1848" y="256" key="Vcs.Push.Dialog.v2" timestamp="1614935920677">
+    <state x="-1848" y="256" key="Vcs.Push.Dialog.v2" timestamp="1614936315335">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1848" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1614935920677" />
+    <state x="-1848" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1614936315335" />
   </component>
 </project>
